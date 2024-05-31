@@ -1,9 +1,7 @@
 ```markdown
-<h1 align="center">Uni-Work Projects Repository</h1>
+# Uni-Work Projects Repository
 
-<p align="center">
 Welcome to my GitHub repository! This collection showcases the various projects I have worked on over my academic journey, covering a wide range of topics in software development, cybersecurity, and more.
-</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -67,7 +65,7 @@ This repository is a comprehensive collection of my academic projects, each repr
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project. You can contact me via email at <a href="mailto:ramy100@hotmail.ch">ramy100@hotmail.ch</a>.
+Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project. You can contact me via email at [ramy100@hotmail.ch](mailto:ramy100@hotmail.ch).
 
 Thank you for visiting my repository!
 ```
